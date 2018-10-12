@@ -4,3 +4,4 @@ logistic/
 .ipynb_checkpoints/
 .DS_Store
 data/
+fastai/

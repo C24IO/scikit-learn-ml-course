@@ -7,3 +7,5 @@ scipy
 seaborn
 sklearn
 msgpack
+kaggle
+ipython
