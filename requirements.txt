@@ -1,0 +1,9 @@
+matplotlib
+jupyter
+torch
+pandas
+numpy
+scipy
+seaborn
+sklearn
+msgpack
