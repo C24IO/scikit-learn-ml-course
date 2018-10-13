@@ -9,3 +9,4 @@ sklearn
 msgpack
 kaggle
 ipython
+pandas_summary
