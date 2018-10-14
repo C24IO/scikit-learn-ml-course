@@ -10,3 +10,4 @@ msgpack
 kaggle
 ipython
 pandas_summary
+fastai==0.7.0
