@@ -13,3 +13,4 @@ pandas_summary
 fastai==0.7.0
 pdpbox
 scikit-misc
+treeinterpreter
