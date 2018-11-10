@@ -14,3 +14,4 @@ fastai==0.7.0
 pdpbox
 scikit-misc
 treeinterpreter
+pyarrow==0.10.0
