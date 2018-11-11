@@ -10,8 +10,8 @@ msgpack
 kaggle
 ipython
 pandas_summary
-fastai==0.7.0
+fastai
 pdpbox
 scikit-misc
 treeinterpreter
-pyarrow==0.10.0
+pyarrow
